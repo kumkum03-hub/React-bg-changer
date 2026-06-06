@@ -25,7 +25,3 @@ A React application that demonstrates theme switching using Context API and glob
 ## Author
 
 Kumkum Kamthan
-
-## Author
-
-Kumkum Kamthan
